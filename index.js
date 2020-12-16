@@ -1,7 +1,7 @@
 var canvas = document.getElementById("snake");
 var ctx = canvas.getContext("2d");
 let box = 32;
-
+//Teste
 let snake = []
 snake[0] = {
     x: 8 * box,
